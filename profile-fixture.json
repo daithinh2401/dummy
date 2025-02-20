@@ -1,0 +1,116 @@
+{
+  "interalEmployees": [
+    {
+      "id": "30b4c58b-931b-468f-b965-65c4ef0d363f",
+      "careProviderId": "f4b23725-bfe9-4fb9-b99e-449148be98f9",
+      "matrixUserId": "@oosglmm28w4vrfmi68w3cru3nnyrhjj6qktvqrbbumqvufe:garrio.homeserver",
+      "portalUserId": "281232733340961724",
+      "username": "thinhdra1202",
+      "isAdmin": false,
+      "status": "ACTIVE",
+      "priority": 1,
+      "settings": {
+        "matrixRecoveryKeySetting": "central",
+        "setupMatrixAccountStep": 40,
+        "shouldResetPortalAccount": false,
+        "allowUsingVideoCall": true,
+        "shouldSetupPin": false
+      },
+      "profile": {
+        "type": "DOCTOR",
+        "firstName": "Thinh",
+        "lastName": "Dr A",
+        "fullName": "Thinh Dr A",
+        "lanrs": ["123456789"],
+        "titleId": "567eeb1a-7b5e-44c8-93bf-d438fa7b7ce9",
+        "title": "Thinh Dr A",
+        "gender": "MALE",
+        "avatar": "/public.449148be98f9.30b4c58b-931b-468f-b965-65c4ef0d363f/avatar_d74e65fcd8454f92a2eb18f07ada880e.jpeg",
+        "dob": 0
+      }
+    },
+    {
+      "id": "b5bbcf16-866f-461e-8b6e-a485acc76755",
+      "careProviderId": "f4b23725-bfe9-4fb9-b99e-449148be98f9",
+      "matrixUserId": "@xtzixqe1hnkrvrwzcwadfmvbaoa5pfb2lfvluamc8xhhdv7:garrio.homeserver",
+      "portalUserId": "281232826588728252",
+      "username": "thinhdrb3777",
+      "isAdmin": false,
+      "status": "ACTIVE",
+      "priority": 1,
+      "settings": {
+        "matrixRecoveryKeySetting": "local",
+        "setupMatrixAccountStep": 40,
+        "shouldResetPortalAccount": false,
+        "allowUsingVideoCall": true,
+        "shouldSetupPin": false
+      },
+      "profile": {
+        "type": "DOCTOR",
+        "firstName": "Thinh",
+        "lastName": "Dr B",
+        "fullName": "Thinh Dr B",
+        "lanrs": ["123456780"],
+        "titleId": "8058a08f-b8e9-47ae-8d64-57130b2fa8cb",
+        "title": "Dr.",
+        "gender": "MALE",
+        "avatar": "",
+        "dob": 0
+      }
+    }
+  ],
+  "exteralEmployees": [
+    {
+      "id": "3110c545-436c-4461-b007-e09b2d1f3356",
+      "careProviderId": "d707c51e-5520-4ab8-a4fa-d3ed825204d8",
+      "matrixUserId": "@cm6jfp2c8v11yigiu0ngsyyiu3o273c49hkb2uwqkmwwctp:garrio.homeserver",
+      "portalUserId": "307641174510798496",
+      "username": "thinhnguyen4909",
+      "isAdmin": false,
+      "status": "ACTIVE",
+      "priority": 1,
+      "settings": {
+        "matrixRecoveryKeySetting": "local",
+        "setupMatrixAccountStep": 40,
+        "shouldResetPortalAccount": false,
+        "allowUsingVideoCall": true,
+        "shouldSetupPin": false
+      },
+      "profile": {
+        "type": "DOCTOR",
+        "firstName": "Thinh",
+        "lastName": "Nguyen",
+        "fullName": "Thinh Nguyen",
+        "lanrs": [],
+        "titleId": "8058a08f-b8e9-47ae-8d64-57130b2fa8cb",
+        "title": "Dr.",
+        "gender": "MALE",
+        "avatar": "",
+        "dob": 0
+      }
+    }
+  ],
+  "patients": [
+    {
+      "id": "4853d651-22c3-4e02-a567-ec28a1fba823",
+      "careProviderId": "",
+      "matrixDirectRoomId": "!mmlglcAeMXaNqLzfpU:garrio.homeserver",
+      "matrixProfileThreadId": "$TdUb_rP9z930_c3M8Udvv0hpzcjI0WxiNTf6ARJuiDw",
+      "linkedPatientAccount": {
+        "id": "4853d651-22c3-4e02-a567-ec28a1fba823",
+        "matrixUserId": "!mmlglcAeMXaNqLzfpU:garrio.homeserver",
+        "status": "active",
+        "createdDate": 1724127667035
+      },
+      "verification": "TRUSTED",
+      "publicProfile": {
+        "firstName": "Tuesday",
+        "lastName": "Patient",
+        "avatar": "/public.4853d651-22c3-4e02-a567-ec28a1fba823/avatar_71b2a5525fff4836bdfc754278e425f9.jpeg",
+        "updatedDate": 1724127667035,
+        "note": "",
+        "intentWord": ""
+      }
+    }
+  ]
+}
