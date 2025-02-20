@@ -1,0 +1,17 @@
+{
+  "4853d651-22c3-4e02-a567-ec28a1fba823": {
+    "dob": 658256400000,
+    "gender": "MALE",
+    "contactPerson": "John Doe",
+    "insuranceType": "PUBLIC",
+    "insuranceNumber": "2983289382",
+    "insuranceName": "HealthCare Insurance",
+    "phone": null,
+    "ikNumber": "293892839",
+    "street": "Main St.",
+    "addressNumber": "12A",
+    "postalCode": "10001",
+    "city": "New York",
+    "country": "USA"
+  }
+}
