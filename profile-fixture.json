@@ -29,6 +29,35 @@
         "dob": 0
       }
     },
+    {
+      "id": "b5bbcf16-866f-461e-8b6e-a485acc76755",
+      "careProviderId": "f4b23725-bfe9-4fb9-b99e-449148be98f9",
+      "matrixUserId": "@xtzixqe1hnkrvrwzcwadfmvbaoa5pfb2lfvluamc8xhhdv7:garrio.homeserver",
+      "portalUserId": "281232826588728252",
+      "username": "thinhdrb3777",
+      "isAdmin": false,
+      "status": "ACTIVE",
+      "priority": 1,
+      "settings": {
+        "matrixRecoveryKeySetting": "local",
+        "setupMatrixAccountStep": 40,
+        "shouldResetPortalAccount": false,
+        "allowUsingVideoCall": true,
+        "shouldSetupPin": false
+      },
+      "profile": {
+        "type": "DOCTOR",
+        "firstName": "Thinh",
+        "lastName": "Dr B",
+        "fullName": "Thinh Dr B",
+        "lanrs": ["123456780"],
+        "titleId": "8058a08f-b8e9-47ae-8d64-57130b2fa8cb",
+        "title": "Dr.",
+        "gender": "MALE",
+        "avatar": "",
+        "dob": 0
+      }
+    }
   ],
   "exteralEmployees": [
     {
