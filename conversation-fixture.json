@@ -171,5 +171,39 @@
         }
       ]
     }
+  },
+  "4853d651-22c3-4e02-a567-ec28a1fba888": {
+    "id": "4853d651-22c3-4e02-a567-ec28a1fba888",
+    "name": "Dianne Russell case",
+    "matrixRoomId": "",
+    "creatorId": "4853d651-22c3-4e02-a567-ec28a1fba823",
+    "userPreferences": {},
+    "createdDate": 1739870113,
+    "type": "Channel",
+    "metadata": {
+      "visibleTo": [
+        { "type": "Patient", "patientAccountId": "4853d651-22c3-4e02-a567-ec28a1fba823" },
+        {
+          "type": "InternalEmployee",
+          "employeeId": "30b4c58b-931b-468f-b965-65c4ef0d363f",
+          "careProviderId": "f4b23725-bfe9-4fb9-b99e-449148be98f9"
+        },
+        {
+          "type": "ExternalEmployee",
+          "employeeId": "3110c545-436c-4461-b007-e09b2d1f3356",
+          "careProviderId": "d707c51e-5520-4ab8-a4fa-d3ed825204d8"
+        },
+        {
+          "type": "InternalEmployee",
+          "employeeId": "b5bbcf16-866f-461e-8b6e-a485acc76755",
+          "careProviderId": "f4b23725-bfe9-4fb9-b99e-449148be98f9"
+        },
+        {
+          "type": "InternalEmployee",
+          "employeeId": "b5bbcf16-866f-461e-8b6e-a485acc76777",
+          "careProviderId": "f4b23725-bfe9-4fb9-b99e-449148be98f9"
+        }
+      ]
+    }
   }
 }
