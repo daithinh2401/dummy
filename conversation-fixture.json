@@ -88,9 +88,7 @@
     "name": "Channel Name",
     "matrixRoomId": "",
     "creatorId": "4853d651-22c3-4e02-a567-ec28a1fba823",
-    "userPreferences": {
-      "markedAs": "Archived"
-    },
+    "userPreferences": { },
     "createdDate": 1739870113,
     "type": "Channel",
     "metadata": {
@@ -99,6 +97,11 @@
         {
           "type": "InternalEmployee",
           "employeeId": "30b4c58b-931b-468f-b965-65c4ef0d363f",
+          "careProviderId": "f4b23725-bfe9-4fb9-b99e-449148be98f9"
+        },
+        {
+          "type": "InternalEmployee",
+          "employeeId": "b5bbcf16-866f-461e-8b6e-a485acc76755",
           "careProviderId": "f4b23725-bfe9-4fb9-b99e-449148be98f9"
         }
       ]
