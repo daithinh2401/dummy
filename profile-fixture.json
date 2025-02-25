@@ -88,6 +88,35 @@
         "avatar": "",
         "dob": 0
       }
+    },
+    {
+      "id": "3110c545-436c-4461-b007-e09b2d1f3345",
+      "careProviderId": "d707c51e-5520-4ab8-a4fa-d3ed825204d8",
+      "matrixUserId": "@cm6jfp2c8v11yigiu0ngsyyiu3o273c49hkb2uwqkmwwctp:garrio.homeserver",
+      "portalUserId": "307641174510798496",
+      "username": "thinhnguyen4909",
+      "isAdmin": false,
+      "status": "ACTIVE",
+      "priority": 1,
+      "settings": {
+        "matrixRecoveryKeySetting": "local",
+        "setupMatrixAccountStep": 40,
+        "shouldResetPortalAccount": false,
+        "allowUsingVideoCall": true,
+        "shouldSetupPin": false
+      },
+      "profile": {
+        "type": "DOCTOR",
+        "firstName": "Vy",
+        "lastName": "Pham",
+        "fullName": "Vy Pham",
+        "lanrs": [],
+        "titleId": "8058a08f-b8e9-47ae-8d64-57130b2fa8cb",
+        "title": "Dr.",
+        "gender": "MALE",
+        "avatar": "",
+        "dob": 0
+      }
     }
   ],
   "patients": [
