@@ -160,7 +160,7 @@
         "status": "active",
         "createdDate": 1724127667035
       },
-      "verification": "connected",
+      "verification": "requested_connection",
       "publicProfile": {
         "firstName": "Tuesday",
         "lastName": "Patient",
