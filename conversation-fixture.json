@@ -205,5 +205,19 @@
         }
       ]
     }
+  },
+  "4853d651-22c3-4e02-a567-ec28a1fba999": {
+    "id": "4853d651-22c3-4e02-a567-ec28a1fba999",
+    "name": "Dianne Russell case",
+    "matrixRoomId": "",
+    "creatorId": "4853d651-22c3-4e02-a567-ec28a1fba823",
+    "userPreferences": {},
+    "createdDate": 1739870113,
+    "type": "Channel",
+    "metadata": {
+      "visibleTo": [
+        { "type": "Patient", "patientAccountId": "4853d651-22c3-4e02-a567-ec28a1fba823" }
+      ]
+    }
   }
 }
