@@ -85,7 +85,7 @@
   },
   "4853d651-22c3-4e02-a567-ec28a1fba555": {
     "id": "4853d651-22c3-4e02-a567-ec28a1fba555",
-    "name": "Channel Name 1",
+    "name": "Contact with Dr.Michelle Göbel",
     "matrixRoomId": "",
     "creatorId": "4853d651-22c3-4e02-a567-ec28a1fba823",
     "userPreferences": {},
@@ -113,6 +113,11 @@
           "type": "ExternalEmployee",
           "employeeId": "3110c545-436c-4461-b007-e09b2d1f3345",
           "careProviderId": "d707c51e-5520-4ab8-a4fa-d3ed825204d8"
+        },
+        {
+          "type": "InternalEmployee",
+          "employeeId": "b5bbcf16-866f-461e-8b6e-a485acc76777",
+          "careProviderId": "f4b23725-bfe9-4fb9-b99e-449148be98f9"
         }
       ]
     }
