@@ -3,7 +3,7 @@
     "dob": 1740073697,
     "gender": "MALE",
     "contactPerson": "John Doe",
-    "insuranceType": "PRIVATE",
+    "insuranceType": "NOT_UPDATED",
     "insuranceNumber": "2983289382",
     "insuranceName": "HealthCare Insurance",
     "phone": null,
