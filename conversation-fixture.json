@@ -108,6 +108,11 @@
           "type": "ExternalEmployee",
           "employeeId": "3110c545-436c-4461-b007-e09b2d1f3356",
           "careProviderId": "d707c51e-5520-4ab8-a4fa-d3ed825204d8"
+        },
+        {
+          "type": "ExternalEmployee",
+          "employeeId": "3110c545-436c-4461-b007-e09b2d1f3345",
+          "careProviderId": "d707c51e-5520-4ab8-a4fa-d3ed825204d8"
         }
       ]
     }
