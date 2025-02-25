@@ -93,7 +93,6 @@
     "type": "Channel",
     "metadata": {
       "visibleTo": [
-        { "type": "Patient", "patientAccountId": "4853d651-22c3-4e02-a567-ec28a1fba823" },
         {
           "type": "InternalEmployee",
           "employeeId": "30b4c58b-931b-468f-b965-65c4ef0d363f",
